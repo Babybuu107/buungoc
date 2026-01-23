@@ -9,9 +9,11 @@ td{
   color:tomato;
   font-size:25pt;
   top-margin:18pt;
+  padding:10px;
 }
 .noidung{
   color: blue;
   font-size:15pt;
   top-margin:6pt;
+  padding:10px;
 }
