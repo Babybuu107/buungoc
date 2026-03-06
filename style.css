@@ -1,5 +1,5 @@
 .header {
-    flex: 0 0 20%;
+    flex:20%;
     max-height: 20vh; 
     overflow: hidden;
     background-color:grey;
@@ -29,7 +29,6 @@
 .menu{
   flex: 5%;
   background-color:tomato;
-  color: blue;
   display: flex;
 }
 .content{
