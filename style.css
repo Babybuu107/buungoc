@@ -14,12 +14,11 @@
   display: flex;
 }
 .menu a{
-  padding: 15px 20px;
-  
+  padding:25px 15px 20px 15px;
 }
-.menu :a hover{
-  background-color:darkgray;
-  color: light blue;
+.menu hover{
+  background-color:lightgrey;
+  color:white;
 }
 .content{
   flex: 70%;
