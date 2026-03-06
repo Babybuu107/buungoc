@@ -28,7 +28,7 @@
 }
 .menu{
   flex: 5%;
-  background-color: white;
+  background-color:tomato;
   color: blue;
   display: flex;
 }
