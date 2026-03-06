@@ -1,6 +1,6 @@
 .header {
-    flex:20%;
-    max-height: 20vh; 
+    flex:25%;
+    max-height: 25vh; 
     overflow: hidden;
     background-color:grey;
 }
@@ -33,7 +33,7 @@
   display: flex;
 }
 .content{
-  flex: 65%;
+  flex: 60%;
   background-color:lightpink;
 }
 .content iframe {
