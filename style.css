@@ -33,7 +33,7 @@
   display: flex;
 }
 .content{
-  flex: 70%;
+  flex: 65%;
   background-color:lightpink;
 }
 .content iframe {
