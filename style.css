@@ -17,7 +17,7 @@
   padding: 15px 20px;
   
 }
-.menh hover{
+.menu: a hover{
   background-color:darkgray;
   color: light blue;
 }
