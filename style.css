@@ -1,6 +1,6 @@
 .header {
-    flex: 0 0 15%;
-    max-height: 15vh; 
+    flex: 0 0 20%;
+    max-height: 20vh; 
     overflow: hidden;
     background-color:grey;
 }
