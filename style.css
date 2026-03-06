@@ -5,7 +5,7 @@
 }
 .header{
   flex: 15%;
-  background-color: tomato;
+  background-color: lighttomato;
 }
 .menu{
   flex: 5%;
@@ -22,7 +22,7 @@
 }
 .content{
   flex: 70%;
-  background-color: pink;
+  background-color: lightpink;
 }
 .content iframe {
   flex: 1;
@@ -32,7 +32,7 @@
 }
 .footer{
   flex:10%;
-  background-color: tomato;
+  background-color: lighttomato;
 }
 
 h1{
